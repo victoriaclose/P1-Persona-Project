@@ -1,0 +1,129 @@
+body {
+  margin-bottom: 6px;
+  border-top: 0px solid rgba(0, 0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  color: #333;
+  font-size: 12px;
+  line-height: 20px;
+}
+h1 {
+  margin: 10px 0px;
+  border-bottom: 0px solid rgba(0, 0, 0, 0);
+  font-family: Inconsolata, monospace;
+  font-size: 25px;
+  line-height: 25px;
+  font-weight: 400;
+  text-align: center;
+}
+h2 {
+  margin: 10px 0px;
+  font-size: 32px;
+  line-height: 36px;
+  font-weight: 700;
+}
+h3 {
+  margin-right: 0px;
+  margin-left: 0px;
+  padding-right: 15px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) rgba(0, 0, 0, 0.09);
+  font-family: Inconsolata, monospace;
+  font-size: 17px;
+  line-height: 25px;
+  font-weight: 400;
+  text-align: left;
+}
+h4 {
+  margin: 10px 0px;
+  font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 17px;
+  line-height: 24px;
+  font-weight: 400;
+}
+h5 {
+  margin: 10px 0px;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 700;
+}
+h6 {
+  margin: 10px 0px;
+  font-size: 12px;
+  line-height: 18px;
+  font-weight: 700;
+}
+p {
+  margin-top: 8px;
+  margin-bottom: 5px;
+  font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  line-height: 17px;
+  font-weight: 400;
+}
+.nav {
+  margin-bottom: 20px;
+  border: 1px solid rgba(0, 0, 0, 0.09);
+}
+.header {
+  margin-top: 20px;
+  margin-bottom: 44px;
+  border-top: 1px solid rgba(0, 0, 0, 0.09);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.09);
+}
+.container {
+  margin-top: 42px;
+  border-top: 1px solid rgba(0, 0, 0, 0.09);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.09);
+}
+.top-image {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.09);
+  border-right-style: solid;
+  border-right-color: rgba(0, 0, 0, 0);
+}
+.top-image:hover {
+  opacity: 0.5;
+}
+.column---right {
+  margin-top: 15px;
+}
+.image {
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.09);
+}
+.image:hover {
+  opacity: 0.5;
+}
+.bottom-image {
+  margin-bottom: 15px;
+}
+.bottom-image:hover {
+  opacity: 0.5;
+}
+.references {
+  font-size: 10px;
+  line-height: 11px;
+  text-align: right;
+}
+.quote-text {
+  font-size: 10px;
+  line-height: 15px;
+}
+.book-quote {
+  margin-bottom: 4px;
+  padding-bottom: 21px;
+}
+.quote-image {
+  padding-top: 17px;
+  padding-bottom: 1px;
+}
+@media (max-width: 991px) {
+}
+@media (max-width: 767px) {
+}
+@media (max-width: 479px) {
+}
